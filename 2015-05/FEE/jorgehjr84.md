@@ -21,6 +21,6 @@
 
 | category | value |
 |----------|-------|
-| _zodiac_ | --- |
+| _zodiac_ | Gemini |
 | _spirit animal_ | --- |
-| _celeb birthday_ | --- |
+| _celeb birthday_ | Naomi Campbell |
